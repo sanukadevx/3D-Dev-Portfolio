@@ -68,7 +68,7 @@ const Hero = () => {
                   <span className="text-gray-400">•</span>
                   <span className="text-lavender font-medium">Backend</span>
                   <span className="text-gray-400">•</span>
-                  <span className="text-aqua font-medium">Database</span>
+                  <span className="text-aqua font-medium">DevOps</span>
                 </div>
               </div>
 
